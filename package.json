@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/k-nickos/taxinom/issues"
   },
-  "homepage": "https://github.com/k-nickos/taxinom"
+  "homepage": "https://github.com/k-nickos/taxinom",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-es6-transpiler": "^1.0.1"
+  }
 }
